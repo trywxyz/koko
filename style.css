@@ -4,7 +4,7 @@
 }
 body {
     background-color: #000;
-    background: url(https://i.pinimg.com/originals/e1/56/1f/e1561f74543cb485eb38541d06dd5c05.gif) no-repeat center center/cover;
+    background: url("") no-repeat center center/cover;
     transition: all .7s ease-in-out;
     -o-transition: all .7s ease-in-out;
     -moz-transition: all .7s ease-in-out;
